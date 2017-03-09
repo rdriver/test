@@ -5,8 +5,8 @@
 
 Ariane Peralta
 
-+ email:
-+ about me:
++ email: peraltaa@ecu.ed
++ about me: I love most microbes. I love all cookies.
 
 
 ### _Graduate Students_
