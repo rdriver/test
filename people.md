@@ -40,3 +40,8 @@ Alex Stucy
 
 + email:
 + about me:
+
+Dan Newhouse
+
++ email: newhoused12@students.ecu.edu
++ about me: i like things
