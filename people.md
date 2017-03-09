@@ -5,8 +5,8 @@
 
 Ariane Peralta
 
-+ email:
-+ about me:
++ email: peraltaa@ecu.ed
++ about me: I love most microbes. I love all cookies.
 
 
 ### _Graduate Students_
@@ -38,5 +38,17 @@ Debbie Lichti
 
 Alex Stucy
 
+<<<<<<< HEAD
 + email: stucya16@students.ecu.edu
 + about me: Recently found $10 in an old pair of shorts -- planning to purchase some ice cream after mastering GitHub.
+=======
++ email:
++ about me:
+
+### _Friends_
+
+Chequita Brooks
+
++ email: brooksch16@students.ecu.edu
++ about me: budding microbial ecologist
+>>>>>>> upstream/master
