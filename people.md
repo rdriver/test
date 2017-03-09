@@ -5,8 +5,8 @@
 
 Ariane Peralta
 
-+ email:
-+ about me:
++ email: peraltaa@ecu.ed
++ about me: I love most microbes. I love all cookies.
 
 
 ### _Graduate Students_
@@ -41,7 +41,16 @@ Alex Stucy
 + email:
 + about me:
 
+<<<<<<< HEAD
 Robert Driver
 
 + email: driverr16@students.ecu.edu
 + about me: Graduate student Balalab
+=======
+### _Friends_
+
+Chequita Brooks
+
++ email: brooksch16@students.ecu.edu
++ about me: budding microbial ecologist
+>>>>>>> upstream/master
