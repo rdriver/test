@@ -5,8 +5,8 @@
 
 Ariane Peralta
 
-+ email:
-+ about me:
++ email: peraltaa@ecu.ed
++ about me: I love most microbes. I love all cookies.
 
 
 ### _Graduate Students_
@@ -38,6 +38,7 @@ Debbie Lichti
 
 Alex Stucy
 
+
 + email:
 + about me:
 
@@ -46,3 +47,4 @@ Alex Stucy
 Chris Balakrishnan
 + email: balakrishnanc@ecu.edu
 + about me: nefarious affiliate
+
