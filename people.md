@@ -40,3 +40,10 @@ Alex Stucy
 
 + email:
 + about me:
+
+### _Friends_
+
+Chequita Brooks
+
++ email: brooksch16@students.ecu.edu
++ about me: budding microbial ecologist
