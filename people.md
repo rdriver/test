@@ -37,3 +37,14 @@ Debbie Lichti
 + about me:
 
 Alex Stucy
+
+
++ email:
++ about me:
+
+### _Nefarious Affiliates_
+
+Chris Balakrishnan
++ email: balakrishnanc@ecu.edu
++ about me: nefarious affiliate
+
